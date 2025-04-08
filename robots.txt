@@ -1,4 +1,4 @@
 User-agent: *
-Allow:
-
+Disallow: /private/
+Allow: /
 Sitemap: https://evakuator-24.com.kg/sitemap.xml
